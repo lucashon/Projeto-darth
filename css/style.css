@@ -1,15 +1,26 @@
 .container{
-    border: 1px solid red;
     width: 900px;
     background-color: #000;
 }
 
 .nav{
-background-color: #708090 ;
+  background-color: #708090 ;
+  padding: 1rem;
+  
 }
 
 .nav-link{
     color: white; 
     font-weight: 700;
     text-decoration: none;
+    padding: 0.8rem;
+}
+
+main{
+    color: white;
+    padding: 0.8rem;
+}
+footer p{
+    color: white ;
+    text-align: center;
 }
