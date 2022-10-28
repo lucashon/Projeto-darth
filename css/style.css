@@ -1,1 +1,15 @@
-body{}
+.container{
+    border: 1px solid red;
+    width: 900px;
+    background-color: #000;
+}
+
+.nav{
+background-color: #708090 ;
+}
+
+.nav-link{
+    color: white; 
+    font-weight: 700;
+    text-decoration: none;
+}
